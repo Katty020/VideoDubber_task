@@ -14,11 +14,8 @@ This is an interactive text editor built using React and Mantine UI. The editor 
    ```sh
    git clone https://github.com/your-username/text-editor.git
    ```
-2. Navigate to the project directory:
-   ```sh
-   cd text-editor
-   ```
-3. Install dependencies:
+
+2. Install dependencies:
    ```sh
    npm install
    ```
@@ -36,6 +33,3 @@ This is an interactive text editor built using React and Mantine UI. The editor 
 
 ## Contributing
 Feel free to submit issues or pull requests to improve the editor!
-
-
-g

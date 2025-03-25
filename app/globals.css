@@ -8,8 +8,8 @@ body {
   color: rgb(var(--foreground-rgb));
   background: linear-gradient(
     to bottom,
-    rgb(var(--background-start-rgb)),
-    rgb(var(--background-end-rgb))
+    rgb(244, 47, 76), /* Light blue */
+    rgb(69, 22, 117)   /* Purple */
   );
 }
 
